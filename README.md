@@ -1,5 +1,5 @@
 <h1 align="center">Desafio Domínio Bancario</h1>
-<p align="center">Exercícios de fixação de conteúdo do bootcamp backend Java da DIO, no módulo de "Praticando Sua Abstração no Domínio Bancário"</p>
+<p align="center">Exercícios de fixação de conteúdo do bootcamp backend Java da DIO, no módulo de "Praticando Sua Abstração no Domínio Bancário".</p>
 
 ## 📖 Conteúdos Exercitados:
 - Paradigma Orientado a Objetos
@@ -13,3 +13,8 @@
 |Cofre Seguro|[Descrição](Desafio%20Java%203%20-%20Cofre%20Seguro/Descrição.md)|[Desafio 3](Desafio%20Java%203%20-%20Cofre%20Seguro/Desafio.java)|
 |Reunião de Acionistas|[Descrição](Desafio%20Java%204%20-%20Reunião%20de%20Acionistas/Descrição.md)|[Desafio 4](Desafio%20Java%204%20-%20Reunião%20de%20Acionistas/Desafio.java)|
 |A Última Transação|[Descrição](Desafio%20Java%205%20-%20A%20Última%20Transação/Descrição.md)|[Desafio 5](Desafio%20Java%205%20-%20A%20Última%20Transação/Desafio.java)|
+
+## 📄 Licença
+
+Este projeto está sob a licença [MIT](LICENSE.txt)<br>
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
